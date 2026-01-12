@@ -19,3 +19,5 @@ Improve website visibility and organic traffic through on-page and technical SEO
 - Improved keyword targeting strategy
 - Better on-page structure
 - SEO-ready website framework
+
+##  Project File
