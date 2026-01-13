@@ -29,6 +29,6 @@ This project focuses on creating and structuring a Google Ads (Search) campaign 
 - Improved understanding of SEM campaign planning and execution  
 - Created ads aligned with user intent and keywords  
 
-## Project
-https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/sem%20assignment.docx
 ##  Project File
+https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/sem%20assignment.docx
+
