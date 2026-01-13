@@ -21,4 +21,4 @@ Improve website visibility and organic traffic through on-page and technical SEO
 - SEO-ready website framework
 
   ## Project File
-https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/SEO%20ASSIGNMENT.docx
+https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/SEO%20Project%20file
