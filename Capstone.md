@@ -1,0 +1,40 @@
+# Capstone Project – Complete Digital Marketing Strategy  
+
+## Project Type
+Capstone / Academic Project
+
+## Project Overview
+This capstone project involves creating a complete digital marketing strategy for a brand, covering SEO, SEM, social media, email marketing, analytics, and content marketing.
+
+## Objectives
+- Develop an end-to-end digital marketing plan  
+- Apply multiple digital marketing channels cohesively  
+- Create a scalable marketing strategy  
+
+## Work Done
+- Market and competitor analysis  
+- Defined target audience and buyer persona  
+- Planned SEO and SEM strategies  
+- Designed social media and email marketing plans  
+- Defined KPIs and analytics framework  
+
+## Channels Covered
+- SEO  
+- Google Ads (SEM)  
+- Social Media Marketing  
+- Email Marketing  
+- Affiliate Marketing  
+- Google Analytics  
+
+## Tools Used
+- Google Analytics  
+- Google Ads  
+- Google Search Console  
+- Meta Ads Manager  
+- Canva  
+
+## Outcome
+- Developed a complete digital marketing blueprint  
+- Demonstrated multi-channel marketing understanding  
+
+## Project File
