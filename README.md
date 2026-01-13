@@ -23,7 +23,7 @@ Passionate digital marketing fresher with hands-on academic and practice project
 - Affiliate Marketing Strategy – Amazon Associates (https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Affiliate-marketing-project.md)
 - Google Analytics 4 Setup & Analysis (https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Google-analytics-project.md)
 - Video Marketing & YouTube Optimization Strategy (https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Video%20project%20file.)
-- Capstone Project – Complete Digital Marketing Plan (https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/capstone-project.md.)
+- Capstone Project – Complete Digital Marketing Plan (https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Capstone.md)
 
 ---
 
