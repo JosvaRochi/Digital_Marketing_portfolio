@@ -34,3 +34,4 @@ This project focuses on planning an affiliate marketing strategy using Amazon As
 - Gained understanding of affiliate funnels and monetization  
 
 ##  Project File
+https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Affiliate%20Marketing.docx
